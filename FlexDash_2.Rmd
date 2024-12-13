@@ -1,0 +1,72 @@
+---
+title: "Flex Dashboard with Tabs"
+output: 
+  flexdashboard::flex_dashboard:
+    orientation: columns
+    vertical_layout: fill
+---
+
+```{r setup, include=FALSE}
+library(flexdashboard)
+```
+
+Column {data-width=650}
+-----------------------------------------------------------------------
+
+### Chart A
+
+### Sidebar
+This is the sidebar content.
+
+### Tab 1: Plots
+Column {data-width=650}
+-------------------------------------
+#### Plot 1: Bar Chart
+```{r}
+library(ggplot2)
+library(DT)
+ggplot(mpg, aes(x = class, fill = drv)) +
+  geom_bar() +
+  labs(title = "Bar Chart of Vehicle Classes")
+```
+```{r}
+ggplot(economics, aes(x = date, y = unemploy)) +
+  geom_line(color = "blue") +
+  labs(title = "Line Plot of Unemployment Over Time")
+```
+### Tab 2: Plots
+Column {data-width=650}
+-------------------------------------
+#### Plot 3: Scatter Chart
+```{r}
+ggplot(mpg, aes(x = displ, y = hwy, color = drv)) +
+  geom_point() +
+  labs(title = "Scatter Plot of Displacement vs Highway MPG")
+```
+```{r}
+ggplot(mpg, aes(x = hwy, fill = drv)) +
+  geom_histogram(binwidth = 2, position = "dodge") +
+  labs(title = "Histogram of Highway MPG by Drive Type")
+```
+### Tab 3: Data Table
+Column {data-width=350}
+-------------------------------------
+```{r}
+datatable(mtcars, options = list(searching = TRUE, pageLength = 10))
+```
+
+
+
+
+### Chart B
+
+```{r}
+
+```
+
+### Chart C
+
+```{r}
+
+```
+

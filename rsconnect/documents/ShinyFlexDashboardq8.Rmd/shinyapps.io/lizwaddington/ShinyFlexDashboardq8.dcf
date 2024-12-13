@@ -1,0 +1,12 @@
+name: ShinyFlexDashboardq8
+title: ShinyFlexDashboardq8
+username: lizwaddington
+account: lizwaddington
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 13589916
+bundleId: 9513606
+url: https://lizwaddington.shinyapps.io/ShinyFlexDashboardq8/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE

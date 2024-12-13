@@ -23,6 +23,17 @@ This is my eighth assignment: [Assignment 8](assignment8--3-.html)
 
 This is my ninth assignment: [Assignmnet 9](assignment9--1-.html)
 
+Final Q1: [Flex Dashboard](FlexDashboard.html)
+Q2: [Flex Dashboard 2](FlexDash_2.html)
+Q3: My Shiny Flex Dashboard:[https://elizabethwaddington.shinyapps.io/1_flex_select/](https://elizabethwaddington.shinyapps.io/1_flex_select/)
+Q4: My Shiny Flex Dashboard: [https://elizabethwaddington.shinyapps.io/ShinyFlexDashboard/](https://elizabethwaddington.shinyapps.io/ShinyFlexDashboard/)
+Q5: My Shiny Flex Dashboard: [https://elizabethwaddington.shinyapps.io/ShinyFlexDashboardq5/](https://elizabethwaddington.shinyapps.io/ShinyFlexDashboardq5/)
+Q6: My Shiny Flex Dashboard: [https://elizabethwaddington.shinyapps.io/ShinyFlexDashboardq6/](https://elizabethwaddington.shinyapps.io/ShinyFlexDashboardq6/)
+Q7: My Shiny Flex Dashboard: [https://elizabethwaddington.shinyapps.io/ShinyFlexDashboardq7/](https://elizabethwaddington.shinyapps.io/ShinyFlexDashboardq7/)
+Q8: My Shiny Flex Dashboard: [https://lizwaddington.shinyapps.io/ShinyFlexDashboardq8/](https://lizwaddington.shinyapps.io/ShinyFlexDashboardq8/)
+Q9: My Shiny Flex Dashboard: [https://lizwaddington.shinyapps.io/ShinyFlexDashboardq9/](https://lizwaddington.shinyapps.io/ShinyFlexDashboardq9/)
+
+
 
 
 

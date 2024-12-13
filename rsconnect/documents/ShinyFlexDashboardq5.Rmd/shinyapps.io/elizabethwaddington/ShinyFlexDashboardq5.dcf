@@ -1,0 +1,12 @@
+name: ShinyFlexDashboardq5
+title: ShinyFlexDashboardq5
+username: elizabethwaddington
+account: elizabethwaddington
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 13589706
+bundleId: 9513421
+url: https://elizabethwaddington.shinyapps.io/ShinyFlexDashboardq5/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
