@@ -25,7 +25,8 @@ This is my ninth assignment: [Assignmnet 9](assignment9--1-.html)
 
 This is my tenth assignment: [Assignment 10](assignment10--1-.html)
 
-Final Q1: [Flex Dashboard](FlexDashboard.html)
+Final: [final.html](final.html) 
+Q1: [Flex Dashboard](FlexDashboard.html)
 Q2: [Flex Dashboard 2](FlexDash_2.html)
 Q3: My Shiny Flex Dashboard:[https://elizabethwaddington.shinyapps.io/1_flex_select/](https://elizabethwaddington.shinyapps.io/1_flex_select/)
 Q4: My Shiny Flex Dashboard: [https://elizabethwaddington.shinyapps.io/ShinyFlexDashboardSelectInput/](https://elizabethwaddington.shinyapps.io/ShinyFlexDashboardSelectInput/)
